@@ -3,6 +3,7 @@ layout: post
 title:  "My premiere post!"
 date:   2016-11-15 15:35:13
 categories: jekyll update
+comments: true
 ---
 As a non-frequent-blogger I'll do my best. How about a recap of my day? Well alright, if you insist.
 
