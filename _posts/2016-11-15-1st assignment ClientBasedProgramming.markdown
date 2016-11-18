@@ -9,7 +9,9 @@ categories: jekyll update
 
 >When you get the hang of it, the structure becomes more organized and shortened in the long run, which both
 >limits the risk for errors and lets you alter code more efficient. It also offers developers to use e.g. variables and functions
-> in css-related purposes.
+> in css-related purposes. Compared to regular css, which soon extends to large amounts of code, where you often can't avoid
+> scrapping the DRY- philosophy, pre-compiling is preferred in most cases, in my opinion. The main con I think is the extended amount of
+> files that are to be used when pre-compiling, but if you learn to keep the different files organized, the pros exceeds the cons.
 
 ### 2. What do you think of static site generators?
 
